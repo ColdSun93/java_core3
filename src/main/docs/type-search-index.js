@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.coldsun.lesson3","l":"Employee"},{"p":"ru.coldsun.lesson3","l":"EmployeeNameComparator"},{"p":"ru.coldsun.lesson3","l":"Freelancer"},{"p":"ru.coldsun.lesson3","l":"Program"},{"p":"ru.coldsun.lesson3","l":"Worker"}];updateSearchResults();
